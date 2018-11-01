@@ -11,5 +11,13 @@ public class TestCase {
 	{
 		System.out.println("login test case passed");
 	}
+	
+    @Test 
+	
+	public void logouttest()
+	{
+		System.out.println("login test case passed");
+	}
+
 
 }
